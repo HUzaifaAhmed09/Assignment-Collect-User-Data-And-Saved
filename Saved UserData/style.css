@@ -1,0 +1,24 @@
+body{
+    font-family: Arial;
+    background:#f2f2f2;
+    text-align:center;
+}
+
+
+#userData{
+
+    background:white;
+    width:400px;
+    margin:20px auto;
+    padding:20px;
+    border-radius:10px;
+
+}
+
+
+.user{
+
+    border-bottom:1px solid gray;
+    padding:10px;
+
+}
